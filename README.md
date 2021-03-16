@@ -2,7 +2,8 @@
 - 👀 I’m interested in Web Development, Ethical Hacking.
 - 🌱 I’m currently learning Full Stack Development with NodeJS and Bachelors of Engineering Major in Computer Engineering.
 - 💞️ I’m looking to collaborate on Any projects related to Front End Dev and Cyber Security.
-- 📫 How to reach me Mail: kamal5201ks@gmail.com
+- 📫 How to reach me:
+-                    Mail: kamal5201ks@gmail.com
 -                    Mail: coding.coding.everyday@gmail.com
 -                    Instagram: @mrajibsharma
 -                    Snapchat: kamal_s5201
