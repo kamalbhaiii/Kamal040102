@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamal Sharma</h1>
-<h3 align="center">I am a third year under graduate, Computer Engineering student and Data Science Enthusiast. I have worked as an intern in various companies as a Data Science Trainee, also I am an intermediate Full-Stack Web Developer and learning daily to improve my self. Currently I am focusing more towards learning the fundamentals of Data Science and creating my own Metaverse.</h3>
+<h3 align="center">I am a final year under graduate, Computer Engineering student and Data Science Enthusiast. I have worked as an intern in various companies as a Data Science Trainee, also I am an intermediate Full-Stack Web Developer and learning daily to improve my self. Currently I am focusing more towards learning the fundamentals of Data Science and creating my own Metaverse.</h3>
 
 - 🌱 I’m currently learning **Blockchain, Data Science, Full Stack Development**
 
